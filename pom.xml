@@ -12,5 +12,12 @@
         <module>me_web</module>
     </modules>
 
+    <properties>
+        <spring.version></spring.version>
+        <mybatis.version></mybatis.version>
+    </properties>
+
+
+
 
 </project>
